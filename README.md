@@ -1,10 +1,44 @@
-# hello-world
-Here is where it all began.
-I think this will be the day I start coding. I mean, I've played around with a basic HTML reader and whatnot, but today, today feels like the day! Goodbye to the misery that is lawyering. Hello, coding?
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Update
-As of today (November 28, 2018, the day before I hopefully graduate from Rutgers coding bootcamp) I have decided to make this, my first github page, my profile page. I will be attempting to create this in react, and will have it deployed as I go. Feel free to watch. I am nothing if not transparent.  I don't know yet if I'm a wrangler, or a ninja, a guru or a rockstar, a sherpa, or an evangelist. What I do know is that I have over 15 years in the corporate world, sitting in front of clients and c-level management, a broad view of the business world and the balance it must maintain, and a strong desire to learn new things and enjoy my work (as should be evidenced by my career switch at age 45). I also have some strong teaching and mentoring skills. 
+## Available Scripts
 
-Take a look at my portfolio as it grows along with me. I am really just getting started, but keep watching. I promise you'll see great things from me. I'm going to be an ideal candidate for someone looking for an 'outside the box' role--I'm ready to pioneer and straddling worlds is my specialty. I can translate law to programmers and code to laywers in a way that makes sense (and with heavy use of relatable analogies).
+In the project directory, you can run:
 
+### `npm start`
 
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
