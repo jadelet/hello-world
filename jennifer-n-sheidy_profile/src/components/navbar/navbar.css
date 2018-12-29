@@ -1,0 +1,39 @@
+
+h1 {font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+body {
+  background-image: url("../images/mandala.png");
+  background-size: cover;
+  color: whitesmoke
+  
+  }
+   
+
+Navbar.Brand {
+  font-size: 64 px
+  ;
+  font-family: 'Roboto'; 
+
+  background-color: #600ce7;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+li {
+  color: whitesmoke
+
+}
+image { 
+  opacity: 0.1;
+
+
+}
+
+ 
