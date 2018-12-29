@@ -6,9 +6,9 @@ import Portfolio from './components/portfolioComponent';
 import About from './components/about/about.js';
 import Navbar from './components/navbar/navbar.js';
 import Under_Construction from './components/UnderConstruction/Underconstruction.js';
-import Blog from './components/blog/Blog.js';
-import Github from './components/github/Github.js';
-import Linkedin from './components/linkedin/Linkedin.js';
+import Blog from './components/blog/blogcomponent.js';
+import Github from './components/github/githubcomponent.js';
+import Linkedin from './components/linkedin/linkedincomponent.js';
 
 const App = () => (
   <Router>

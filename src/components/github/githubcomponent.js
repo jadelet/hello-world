@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Iframe from 'react-iframe'
 
-class Blog extends Component {
+class Github extends Component {
   // state = {  }
 
   render() {
@@ -13,14 +13,14 @@ class Blog extends Component {
    </title>
    <div className="imagecontainer">
 
-<Iframe url="https://jensheidy.wordpress.com/"
-        width="100%"
-        height= "100%"
-        className="iframe"
+<Iframe url=" http://gist-it.appspot.com/https://github.com/jadelet"
+          width="100%"
+          height= "100%"
+          className="iframe"
         allowFullScreen/>
         </div>
         </div>
     )}
 }
 
-export default Blog;
+export default Github;

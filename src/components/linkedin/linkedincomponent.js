@@ -1,26 +1,26 @@
 import React, {Component} from 'react';
 import Iframe from 'react-iframe'
 
-class Blog extends Component {
+class Linkedin extends Component {
   // state = {  }
 
   render() {
     return(
   <div>
-      
-      <title> 
+   
+     
+   <title> 
       <a className= "jen" href="/about">Jennifer Nicole Sheidy --"jack-of-all-codes"</a>
    </title>
    <div className="imagecontainer">
-
-<Iframe url="https://jensheidy.wordpress.com/"
-        width="100%"
-        height= "100%"
-        className="iframe"
+<Iframe url="https://www.linkedin.com/company/jack-of-all-codes/about"
+          width="100%"
+          height= "100%"
+          className="iframe"
         allowFullScreen/>
         </div>
         </div>
     )}
 }
 
-export default Blog;
+export default Linkedin;
