@@ -68,7 +68,7 @@ class MyNav extends Component {
                       : "nav-link"
                   }
                   to="/blog"
-                  target="_blank"
+                
                 >
                   Wordpress Blog
                 </Link>
@@ -81,7 +81,7 @@ class MyNav extends Component {
                       : "nav-link"
                   }
                   to="/github"
-                  target="_blank"
+                 
                 >
                   Github
                 </Link>
