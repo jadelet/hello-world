@@ -10,6 +10,7 @@ import Blog from './components/blog/blogcomponent.js';
 import Github from './components/github/githubcomponent.js';
 import Linkedin from './components/linkedin/linkedincomponent.js';
 
+
 const App = () => (
   <Router>
     <div>
@@ -21,11 +22,12 @@ const App = () => (
       {/* <Route exact path='/bizwebsite/' component={() => window.location = 'http://www.jackofallcodes.net'} />  */}
       {/* Originally were direct links. */}
       {/* <Route exact path='/blog/'component={() => window.location = 'https://jensheidy.wordpress.com/'}/> */}
-      {/* <Route exact path='/github/'component={() => window.location = 'https://github.com/jadelet'}/> */}
+      <Route exact path='/github/'component={() => window.location = 'https://github.com/jadelet'}/>
       <Route exact path='/blog/'component={Blog}/>
-      <Route exact path='/github/'component={Github}/>
+      {/* <Route exact path='/github/'component={Github}/> */}
       <Route exact path='/linkedin/'component={Linkedin}/>
       <Route exact path='/' component={About} />
+     
      
     </div>
   </Router>

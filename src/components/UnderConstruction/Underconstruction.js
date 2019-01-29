@@ -13,11 +13,14 @@ class UnderConstruction extends Component {
             Sorry friends, seems we're still working out a few bugs on this
             page. . .
           </a>
+          <a href="https://github.com/jadelet">
+           Feel free to poke around my github page till we can get it running. 
+          </a>
         </title>
         <div id="imagecontainer">
           <img id = "angryprogrammer"
             src={under_construction}
-            alt="THIS PAGE IS STILL UNDER CONSTRUCTION--SEE EVEN THE IMAGE LINK IS BROKEN"
+            alt="THIS PAGE IS STILL UNDER CONSTRUCTION"
           />
         </div>
       </div>

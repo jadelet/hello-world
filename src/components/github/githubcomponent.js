@@ -13,11 +13,12 @@ class Github extends Component {
    </title>
    <div className="imagecontainer">
 
-<Iframe url=" http://gist-it.appspot.com/https://github.com/jadelet"
+<Iframe surl="https://github.com/jadelet"
           width="100%"
           height= "100%"
           className="iframe"
         allowFullScreen/>
+        This browser does not support unsecured iFrame content
         </div>
         </div>
     )}
